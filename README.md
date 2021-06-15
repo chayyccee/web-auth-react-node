@@ -1,2 +1,8 @@
 # node-auth-api
-Backend Authentication Api in Node JS - Express and Mongo DB# node-auth-backend
+Fully functional web authentication using react and node
+Backend Authentication Api in Node JS - Express and Mongo
+
+- Register
+- Login
+- Reset Password
+- Forgot Password
